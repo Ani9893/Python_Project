@@ -5,5 +5,5 @@ Contact App :-
 
               Lists support various operations such as indexing, slicing, appending, and removing elements. 
               You can access elements using indices, where the first element has an index of 0.   
-                  Lists can be manipulated using built-in methods like :-
+                  Lists can be manipulated using built-in methods using like :-
                     append(), extend(), insert(), remove(), pop().
